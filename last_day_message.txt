@@ -1,0 +1,11 @@
+Subject: Signing Off from the Track 🏁
+Dear All,
+As I pull into the pit lane for the final time and finally close my IDE (after one last refresh, just to be sure), I wanted to say a big thank you to all of you.
+This journey has felt very much like a race—fast, sometimes messy, and powered by caffeine, deadlines, and occasional guesswork. As an individual contributor, I’ve learned a lot along the way, mostly thanks to supportive leaders, helpful mentors, and teammates who were always willing to jump in when things didn’t go exactly as planned.
+There were definitely a few “crash” moments—features that worked perfectly on my machine, fixes that created new bugs, and timelines that seemed reasonable until reality showed up. But every time, someone was there to help debug, suggest a workaround, or calmly say, “Let’s look at this again.” That teamwork made all the difference.
+Whether we worked closely or mostly connected through messages, code reviews, and meetings that started with “quick question,” each of you has been part of my experience here.
+Thank you to everyone I had the pleasure of working with—you made the long days easier, the tough bugs manageable, and the wins more satisfying. I’m leaving with great memories, valuable learnings, and a much stronger habit of checking console errors first.
+As I move on to my next track, I wish you all smooth builds, fewer last‑minute changes, and bugs that magically fix themselves.
+Let’s stay in touch. Thank you once again!! ☺️
+Signing off (before one last Jira ticket appears),
+Best regards,
